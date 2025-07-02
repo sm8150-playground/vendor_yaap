@@ -63,6 +63,20 @@ flag_value {
 
 flag_value {
   package: "com.android.systemui"
+  name: "status_bar_popup_chips"
+  state: ENABLED
+  permission: READ_ONLY
+}
+
+flag_value {
+  package: "com.android.systemui"
+  name: "status_bar_popup_chips_return_animations"
+  state: ENABLED
+  permission: READ_ONLY
+}
+
+flag_value {
+  package: "com.android.systemui"
   name: "shade_header_font_update"
   state: ENABLED
   permission: READ_ONLY
