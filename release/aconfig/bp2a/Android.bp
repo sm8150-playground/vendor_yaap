@@ -17,6 +17,7 @@ aconfig_value_set {
     name: "aconfig_value_set-yaap-bp2a",
     values: [
         "aconfig-values-bp2a-com.android.server.display.feature.flags-all",
+        "aconfig-values-bp2a-android.app-all",
         "aconfig-values-bp2a-com.android.systemui.flags-all",
         "aconfig-values-bp2a-com.android.systemui.shared.flags-all",
         "aconfig-values-bp2a-com.android.settings.flags-all",
